@@ -14,8 +14,8 @@ The problem in this project to be addressed is that <u>**“Is it possible to es
 
 File names and descriptions
 ===========================
-..1. **KickstarterCapstoneProjectProposal.docx**:Initial proposal for the project
-..2. **Capstone_DataWrangling_I_ReadFiles.ipynb**: First part of data wrangling of reading and consolidating file
+-1. **KickstarterCapstoneProjectProposal.docx**:Initial proposal for the project
+-2. **Capstone_DataWrangling_I_ReadFiles.ipynb**: First part of data wrangling of reading and consolidating file
 3. **Capstone_DataWrangling_II_ReadFiles.ipynb** : Second part part of data wrangling of merging and extracting data 
 4. **Capstone_DataWrangling_III_ReadFiles.ipynb** Third part of data wrangling of creating some column required for data story, machine learning. And saving a final file
 5. **Capstone_DataStory.ipynbb** : Exploring data through the graphs and visuals
@@ -28,4 +28,4 @@ File names and descriptions
 
 
 **Data**
-The data can be found on [Kickstarter Dataset] https://webrobots.io/kickstarter-datasets/
+The data can be found on [Kickstarter Dataset] (https://webrobots.io/kickstarter-datasets)
