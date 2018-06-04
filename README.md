@@ -24,7 +24,7 @@ File names and descriptions
 8. **KickstarterCapstoneProjectMileStoneReport.pdf** : Milestine report about all finding till baseline anlaysis
 9. **Capstone_ML_LogisticRegression_RandomForestClass.ipynb** : Implementing random forest ML with various variations as final analysis
 10. **KickstarterCapstoneProjectFinalReport_draft.pdf** : Final report for the project
-11. **Slide deck **
+11. **Slide deck**
 
 
 **Data**
