@@ -34,7 +34,7 @@ File names and descriptions
 
 10. **KickstarterCapstoneProjectFinalReport_draft.pdf** : Final report for the project
 
-11. **Slide deck**
+11. **KickstarterSuccessPredicationSlides.pptx** : The project presentation
 
 
 
